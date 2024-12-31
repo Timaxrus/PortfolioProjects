@@ -1,4 +1,4 @@
-# COVID-19 ANALYSIS by 2022
+# COVID-19 ANALYSIS BY 2022
 
 ## Table of Content
 - [Project Overview](#project-overview)
